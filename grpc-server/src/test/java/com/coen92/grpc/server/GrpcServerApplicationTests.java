@@ -1,10 +1,10 @@
-package com.coen92.springbootexamples;
+package com.coen92.grpc.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class GrpcServerApplicationTests {
 
     @Test
     void contextLoads() {
