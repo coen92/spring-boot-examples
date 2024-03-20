@@ -1,4 +1,4 @@
-package com.coen92.springbootexamples;
+package com.coen92.springboot.examples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.TestConfiguration;
