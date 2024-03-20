@@ -1,12 +1,14 @@
-package com.coen92.ddd.structures.domain;
+package com.coen92.ddd.structures.domain.reward;
 
 
 import lombok.EqualsAndHashCode;
+import lombok.Getter;
 
 import java.time.LocalDate;
 
+@Getter
 @EqualsAndHashCode
-final class RewardDateRange {
+public final class RewardDateRange {
     private final LocalDate startDate;
     private final LocalDate endDate;
 

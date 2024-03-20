@@ -1,4 +1,4 @@
-package com.coen92.ddd.structures.entity;
+package com.coen92.ddd.structures.infrastructure.database;
 
 import java.util.UUID;
 
