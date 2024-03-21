@@ -27,4 +27,17 @@ Also, it is pretty good to know your drill as a programmer, don't you think?
 - backtracking algorithms
 - calling functions (call stack)
 
+### Queue
+##### 1. characteristics
+- FIFO (First-In First-Out) data structure
+- linear data structure
+- collection designed for holding elements prior processing
+- add = enqueue, offer()
+- remove = dequeue, poll()
+
+#### 2. usages:
+- keyboard buffer - letters appear on the screen in the order they were pressed on keyboard
+- printer queue - print jobs should be completed in order
+- in LinkedLists, PriorityQueues, Breadth-first search
+
 
