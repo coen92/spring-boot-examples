@@ -40,4 +40,9 @@ Also, it is pretty good to know your drill as a programmer, don't you think?
 - printer queue - print jobs should be completed in order
 - in LinkedLists, PriorityQueues, Breadth-first search
 
+### Priority queue
+#### 1. characteristics
+- FIFO data structure
+- serves elements with the highest priority first
+- 
 
